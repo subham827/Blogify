@@ -1,0 +1,8 @@
+{   "id": 2,
+    "title": "How to learn js",
+    "content": "JavaScript is a wildly popular interpreted scripting language that in early 2019 became the language most frequently learned by developers. JavaScript is an open standard, not controlled by any single vendor, with numerous implementations and an easy-to-learn syntax that makes it popular with beginners and veteran developers alike. JavaScript dates from the earliest days of the World Wide Web. The language was first rolled out as a way to add lightweight client-side functionality to Web pages, and is widely used for that purpose today. Just about anything interactive or animated on a Web page today is rendered in JavaScript, including basically the entire ecosystems of online advertising and metrics. But JavaScript does not just run in the browser. Thanks to development frameworks such as Node.js, JavaScript is now used to write code for just about any niche you can think of, from clients to servers to the cloud.",
+    "author": "John Doe",
+    "slug" : "learnjs",
+    "image" : "/javascript.png",
+    "comments" : []
+}

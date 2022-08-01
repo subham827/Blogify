@@ -1,0 +1,7 @@
+{   "id" : 1,
+    "title": "How to learn flas",
+    "content": "Flask is used for developing web applications using python, implemented on Werkzeug and Jinja2. Advantages of using Flask framework are: There is a built-in development server and a fast debugger provided. Lightweight Secure cookies are supported. Templating using Jinja2. Request dispatching using REST. Support for unit testing is built-in.Flask is a micro web framework written in Python. It is classified as a microframework because it does not require particular tools or libraries.[2] It has no database abstraction layer, form validation, or any other components where pre-existing third-party libraries provide common functions. However, Flask supports extensions that can add application features as if they were implemented in Flask itself. Extensions exist for object-relational mappers, form validation, upload handling, various open authentication technologies and several common framework related tools.",
+    "author": "John Doe",
+    "slug" : "learnflas",
+     "image" : "/flask-tutorial.png",
+    "comments" : []}
