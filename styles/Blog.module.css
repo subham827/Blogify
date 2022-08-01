@@ -1,0 +1,28 @@
+.main {
+    min-height: 100vh;
+    padding-top: 3rem;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .blogItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom: 2rem;
+  }
+  .blogItem p{
+    cursor : pointer;
+   display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1;
+
+  }
+  .mlink{
+    font-weight: bold;
+  }
